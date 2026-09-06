@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Allow Google to crawl everything important
+Disallow: /dashboard/*
+Disallow: /admin/*
+Disallow: /history/*
+Disallow: /api/*
+
+Sitemap: https://www.patternflowdsa.in/sitemap.xml
