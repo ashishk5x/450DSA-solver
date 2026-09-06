@@ -1,7 +1,7 @@
 # 🚀 450DSA Solver — AI-Powered DSA Learning System
 
 > **Learn how top candidates think — not just how they solve.**
-> <img width="917" height="656" alt="image" src="https://github.com/user-attachments/assets/3e697bf3-a742-4a0f-adbe-e0a490922e3f" />
+> <img width="2682" height="1785" alt="image" src="https://github.com/user-attachments/assets/0fe5cb0f-cc72-4ddb-956f-21e1243a59ab" />
 
 
 450DSA Solver is an AI-powered **Data Structures & Algorithms learning platform** designed around **pattern recognition, guided thinking, and long-term problem-solving intuition**.
@@ -114,9 +114,9 @@ Instead of asking:
 # ⚡ AI Solve Flow
 
 The core 450DSA Solver experience is a **guided AI Solve Flow**.
-<img width="2682" height="1785" alt="image" src="https://github.com/user-attachments/assets/0fe5cb0f-cc72-4ddb-956f-21e1243a59ab" />
 
 <img width="2690" height="1683" alt="image" src="https://github.com/user-attachments/assets/56092c32-251a-4ca1-b07e-569d48104314" />
+<img width="2649" height="1180" alt="image" src="https://github.com/user-attachments/assets/e335c923-1959-4eac-a526-6cb4a2f53e8c" />
 
 
 450DSA Solver analyzes the problem and generates a structured learning experience.
