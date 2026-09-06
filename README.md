@@ -20,7 +20,7 @@ The goal is to help you **recognize the next problem faster.**
 
 Most DSA platforms optimize for **solving problems**.
 
-PatternFlow optimizes for **understanding problems**.
+450DSA Solver optimizes for **understanding problems**.
 
 ### Traditional DSA Learning
 
@@ -113,7 +113,7 @@ Instead of asking:
 
 # ⚡ AI Solve Flow
 
-The core PatternFlow experience is a **guided AI Solve Flow**.
+The core 450DSA Solver experience is a **guided AI Solve Flow**.
 <img width="1916" height="823" alt="image" src="https://github.com/user-attachments/assets/fcdefe2b-fa74-40ef-8bf2-0ecc073064e4" />
 
 <img width="1049" height="745" alt="image" src="https://github.com/user-attachments/assets/076c9da0-6c6f-4be2-ae33-b3368c1a9b71" />
@@ -324,9 +324,9 @@ The goal is to maintain a responsive learning experience while controlling AI in
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/patternflow.git
+git clone https://github.com/your-username/450DSA-Solver.git
 
-cd patternflow
+cd 450DSA-Solver
 ```
 
 ## 2. Install Dependencies
@@ -507,7 +507,7 @@ Have feedback, ideas, or want to collaborate?
 
 # ⭐ Support
 
-If you find PatternFlow useful or interesting, consider giving the repository a ⭐.
+If you find 450DSA Solver useful or interesting, consider giving the repository a ⭐.
 
 It helps the project reach more developers and DSA learners.
 
