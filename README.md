@@ -114,16 +114,10 @@ Instead of asking:
 # ⚡ AI Solve Flow
 
 The core 450DSA Solver experience is a **guided AI Solve Flow**.
-<img width="1916" height="823" alt="image" src="https://github.com/user-attachments/assets/fcdefe2b-fa74-40ef-8bf2-0ecc073064e4" />
+<img width="2682" height="1785" alt="image" src="https://github.com/user-attachments/assets/0fe5cb0f-cc72-4ddb-956f-21e1243a59ab" />
 
-<img width="1049" height="745" alt="image" src="https://github.com/user-attachments/assets/076c9da0-6c6f-4be2-ae33-b3368c1a9b71" />
+<img width="2690" height="1683" alt="image" src="https://github.com/user-attachments/assets/56092c32-251a-4ca1-b07e-569d48104314" />
 
-Paste a DSA problem from:
-
-- LeetCode
-- GeeksforGeeks
-- Codeforces
-- Other coding platforms
 
 450DSA Solver analyzes the problem and generates a structured learning experience.
 
