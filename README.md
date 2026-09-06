@@ -1,10 +1,10 @@
-# 🚀 PatternFlow — AI-Powered DSA Learning System
+# 🚀 450DSA Solver — AI-Powered DSA Learning System
 
 > **Learn how top candidates think — not just how they solve.**
 > <img width="917" height="656" alt="image" src="https://github.com/user-attachments/assets/3e697bf3-a742-4a0f-adbe-e0a490922e3f" />
 
 
-PatternFlow is an AI-powered **Data Structures & Algorithms learning platform** designed around **pattern recognition, guided thinking, and long-term problem-solving intuition**.
+450DSA Solver is an AI-powered **Data Structures & Algorithms learning platform** designed around **pattern recognition, guided thinking, and long-term problem-solving intuition**.
 
 Instead of immediately showing you a solution, PatternFlow guides you through a structured learning flow:
 
@@ -16,7 +16,7 @@ The goal is to help you **recognize the next problem faster.**
 
 ---
 
-## 🎯 Why PatternFlow?
+## 🎯 Why 450DSA Solver?
 
 Most DSA platforms optimize for **solving problems**.
 
@@ -30,7 +30,7 @@ PatternFlow optimizes for **understanding problems**.
 - ❌ Passive learning
 - ❌ Weak transfer of knowledge to new problems
 
-### PatternFlow
+### 450DSA Solver
 
 - ✅ Think before seeing the solution
 - ✅ Progressive AI-guided hints
@@ -39,7 +39,7 @@ PatternFlow optimizes for **understanding problems**.
 - ✅ Personalized feedback
 - ✅ Interview-style problem solving
 
-> **PatternFlow isn't a solution generator. It's a thinking system.**
+> **450DSA Solver isn't a solution generator. It's a thinking system.**
 
 ---
 
@@ -67,13 +67,13 @@ This often leads to:
 
 > "I've seen this problem before, but I still can't solve it in an interview."
 
-PatternFlow addresses this gap by delaying answers and progressively developing the user's problem-solving intuition.
+450DSA Solver addresses this gap by delaying answers and progressively developing the user's problem-solving intuition.
 
 ---
 
-# 💡 The PatternFlow Approach
+# 💡 The 450DSA Solver Approach
 
-PatternFlow transforms the learning process into:
+450DSA Solver transforms the learning process into:
 
 ```text
 ┌─────────────┐
@@ -105,7 +105,7 @@ Instead of asking:
 
 > **"What's the solution?"**
 
-PatternFlow asks:
+450DSA Solver asks:
 
 > **"How would you think about this problem?"**
 
@@ -125,7 +125,7 @@ Paste a DSA problem from:
 - Codeforces
 - Other coding platforms
 
-PatternFlow analyzes the problem and generates a structured learning experience.
+450DSA Solver analyzes the problem and generates a structured learning experience.
 
 ### AI extracts:
 
@@ -146,7 +146,7 @@ It progressively reveals information based on the learner's progress.
 
 # 💰 Learning-First Monetization
 
-PatternFlow uses a **freemium learning model** designed to preserve the thinking-first experience.
+450DSA Solver uses a **freemium learning model** designed to preserve the thinking-first experience.
 
 ### 🆓 Free Users
 
@@ -173,7 +173,7 @@ The monetization model is built around **unlocking deeper learning**, rather tha
 
 # 🧩 Pattern Learning
 
-One of PatternFlow's core goals is helping learners build a mental library of DSA patterns.
+One of 450DSA Solver's core goals is helping learners build a mental library of DSA patterns.
 
 Examples include:
 
@@ -193,7 +193,7 @@ Examples include:
 - Prefix Sum
 - Monotonic Stack
 
-For every recognized pattern, PatternFlow can help users understand:
+For every recognized pattern, 450DSA Solver can help users understand:
 
 ### Pattern → When to Spot It → How to Think → How to Remember It
 
@@ -205,7 +205,7 @@ This turns individual problems into reusable knowledge.
 
 Solving a problem once isn't enough.
 
-PatternFlow generates concise **memory hooks** designed to help users recall the underlying pattern later.
+450DSA Solver generates concise **memory hooks** designed to help users recall the underlying pattern later.
 
 For example:
 
@@ -226,7 +226,7 @@ The objective is to make pattern recognition **retrievable under interview press
 
 # 📊 Progress Tracking
 
-PatternFlow tracks more than just the number of problems solved.
+450DSA Solver tracks more than just the number of problems solved.
 
 ### Dashboard metrics include:
 
@@ -249,7 +249,7 @@ rather than simply:
 
 # ⚡ Performance & Optimization
 
-PatternFlow is designed with AI application performance in mind.
+450DSA Solver is designed with AI application performance in mind.
 
 Current optimizations include:
 
@@ -371,7 +371,7 @@ http://localhost:3000
 
 # 🚀 Deployment
 
-PatternFlow is optimized for deployment using **Vercel**.
+450DSA Solver is optimized for deployment using **Vercel**.
 
 ```bash
 npx vercel
@@ -383,7 +383,7 @@ Before deploying, make sure all required environment variables are configured in
 
 # 🗺️ Roadmap
 
-PatternFlow is actively evolving.
+450DSA Solver is actively evolving.
 
 ### 🔄 Coming Soon
 
@@ -404,7 +404,7 @@ PatternFlow is actively evolving.
 
 > **"Don't just solve problems. Understand patterns."**
 
-PatternFlow is built around three principles:
+450DSA Solver is built around three principles:
 
 ### 1. Delayed Answers
 
@@ -434,9 +434,9 @@ Pattern Reinforcement
 
 ---
 
-# 🎯 Who Is PatternFlow For?
+# 🎯 Who Is 450DSA Solver For?
 
-PatternFlow is designed for:
+450DSA Solver is designed for:
 
 - 👨‍💻 Students preparing for coding interviews
 - 🧑‍💻 Developers improving DSA skills
@@ -458,7 +458,7 @@ Instead of simply tracking:
 
 > **Problems Solved: 150**
 
-PatternFlow aims to understand:
+450DSA Solver aims to understand:
 
 > **Patterns Mastered: 23**  
 > **Weak Concepts: Dynamic Programming**  
@@ -515,7 +515,7 @@ It helps the project reach more developers and DSA learners.
 
 <div align="center">
 
-### 🚀 PatternFlow
+### 🚀 450DSA Solver
 
 **Think First. Recognize Patterns. Master DSA.**
 
